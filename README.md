@@ -1,6 +1,7 @@
 
 # [DOFA](https://github.com/ShadowXZT/DOFA-pytorch)
 
+It is a copy of DOFA 
 
 > 🚨 **!!! A new version of DOFA weights has been released !!!**
 >
